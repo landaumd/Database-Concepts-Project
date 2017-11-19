@@ -1,0 +1,176 @@
+.varela {
+  font-family: "Varela Round";
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+}
+
+.input-bubbles{
+    border: solid #E6E4E5;
+    border-width: 2px;
+    color: #747273;
+}
+
+.form-control {
+  border-radius: 20px !important;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    width: 200px;
+    border-radius: 20px;
+}
+
+.banner {
+  width: 100%;
+  height: 180px;
+  position: relative;
+}
+
+.banner-text {
+  font-family: "Varela Round";
+  font-size: 20px;
+  color: #FFF;
+  margin-left: 15px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.instructions {
+  width: 100%;
+  height: 30px;
+  position: relative;
+}
+
+.instructions-text {
+  font-family: "Varela Round";
+  font-size: 16px;
+  font-weight: bold;
+  color: #747273;
+  margin-left: 15px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.page-dark-text {
+  font-family: "Varela Round";
+  font-size: 16px;
+  color: #747273;
+  margin-left: 15px;
+  position: absolute;
+}
+
+.page-light-text {
+  font-family: "Varela Round";
+  font-size: 16px;
+  color: #B4B4B4;
+  margin-left: 30px;
+  position: absolute;
+}
+
+.account-settings-title {
+  width: 100%;
+  height: 30px;
+}
+
+.dark-text {
+  font-family: "Varela Round";
+  font-size: 16px;
+  color: #747273;
+  margin-left: 0px;
+}
+
+.light-text {
+  font-family: "Varela Round";
+  font-size: 16px;
+  color: #B4B4B4;
+  margin-left: 0px;
+}
+
+.form-group {
+  width: 100%;
+}
+
+.small-margin-top {
+  margin-top: 20px;
+}
+
+.small-margin-bottom {
+  margin-bottom: 20px;
+}
+
+html,
+body {
+  color: #747273 !important;
+  height: 100%;
+}
+
+.welcome {
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 150px;
+  padding-bottom: 30px;
+}
+
+.large-padding-top {
+  padding-top: 50px;
+}
+
+.large-padding-bottom {
+  padding-bottom: 50px;
+}
+
+.centerblock {
+  display: table;
+  margin: auto;
+}
+
+.container-full {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#purple {
+    background-color: #B190B1 !important;
+    border-color: #B190B1;
+}
+
+#peach {
+    background-color: #FF9180 !important;
+    border-color: #FF9180;
+}
+
+#blue {
+    background-color: #9AD2F7 !important;
+    border-color: #9AD2F7;
+}
+
+#yellow {
+    background-color: #FFBF7A !important;
+    border-color: #FFBF7A;
+}
+
+#light-teal {
+    background-color: #96D4C9 !important;
+    border-color: #96D4C9;
+}
+
+#dark-teal {
+    background-color: #5BB9A7 !important;
+    border-color: #5BB9A7;
+}
+
+#light-grey {
+    background-color: #E6E4E5 !important;
+    border-color: #E6E4E5;
+}
+
+#dark-grey {
+    background-color: #747273 !important;
+    border-color: #747273;
+}
